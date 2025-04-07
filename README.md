@@ -5,7 +5,7 @@ A simple Python-based calculator that supports basic arithmetic operations.
 ## Features
 - Addition
 - Subtraction
-- Multiplication
+- Multiplication    
 - Division (with error handling)
 
 ## Installation & Usage
