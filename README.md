@@ -21,7 +21,7 @@ A Python-based **scientific calculator** with a graphical user interface (GUI) u
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/python-calculator.git
+    git clone https://github.com/ronaessi-28/python-calculator.git
     cd python-calculator
     ```
 
