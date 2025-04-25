@@ -13,7 +13,7 @@ A Python-based **scientific calculator** with a graphical user interface (GUI) u
 
 ## Requirements
 
-- Python 3.x
+- Python 
 - Tkinter (usually comes with Python)
 - math (standard Python library)
 
